@@ -1,0 +1,22 @@
+{
+  "name": "my-battery-if-low-and-its-getting-dark",
+  "version": "1.0.0",
+  "description": "* This is a poem for the Mars Opportunity Rover.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzhuchai/my-battery-if-low-and-its-getting-dark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzhuchai/my-battery-if-low-and-its-getting-dark/issues"
+  },
+  "homepage": "https://github.com/yuzhuchai/my-battery-if-low-and-its-getting-dark#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
